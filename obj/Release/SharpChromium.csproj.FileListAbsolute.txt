@@ -1,0 +1,8 @@
+C:\Users\willi\Downloads\SharpChromium-a16ab4a37f3173795dc88330e4c3de8890509bf9\bin\Release\SharpChromium.exe.config
+C:\Users\willi\Downloads\SharpChromium-a16ab4a37f3173795dc88330e4c3de8890509bf9\bin\Release\SharpChromium.exe
+C:\Users\willi\Downloads\SharpChromium-a16ab4a37f3173795dc88330e4c3de8890509bf9\bin\Release\SharpChromium.pdb
+C:\Users\willi\Downloads\SharpChromium-a16ab4a37f3173795dc88330e4c3de8890509bf9\obj\Release\SharpChromium.csproj.AssemblyReference.cache
+C:\Users\willi\Downloads\SharpChromium-a16ab4a37f3173795dc88330e4c3de8890509bf9\obj\Release\SharpChromium.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\Downloads\SharpChromium-a16ab4a37f3173795dc88330e4c3de8890509bf9\obj\Release\SharpChromium.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\SharpChromium-a16ab4a37f3173795dc88330e4c3de8890509bf9\obj\Release\SharpChromium.exe
+C:\Users\willi\Downloads\SharpChromium-a16ab4a37f3173795dc88330e4c3de8890509bf9\obj\Release\SharpChromium.pdb
